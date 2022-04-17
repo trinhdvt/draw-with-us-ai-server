@@ -1,3 +1,6 @@
 requests
 fastapi[all]
 gunicorn
+aiohttp[speedups]
+grpcio
+grpcio-tools
