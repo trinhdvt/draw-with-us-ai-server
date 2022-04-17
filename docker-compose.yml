@@ -1,0 +1,33 @@
+version: "3"
+
+services:
+
+  # pytorch serving
+  Model_Server:
+    build:
+      context: .
+      dockerfile: ModelServe.Dockerfile
+    image: trinhvideo123/draw-with-us:ai-server
+    ports:
+      - "127.0.0.1:8080:8080"
+    restart: unless-stopped
+    networks:
+      AI_SERVER_BACKEND:
+        aliases:
+          - MODEL_SERVER
+
+  Model_Server_Proxy:
+    build:
+      context: .
+      dockerfile: Server.Dockerfile
+    image: trinhvideo123/draw-with-us:ai-proxy
+    ports:
+      - "8888:8888"
+    restart: unless-stopped
+    networks:
+      AI_SERVER_BACKEND:
+        aliases:
+          - MODEL_SERVER_PROXY
+
+networks:
+  AI_SERVER_BACKEND:
