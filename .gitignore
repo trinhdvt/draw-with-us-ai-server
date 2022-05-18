@@ -133,3 +133,7 @@ cython_debug/
 /src/deployment/model_store/drawclassifier.mar
 /src/deployment/mobile_net_scripted.pt
 /.idea/
+/.run/
+/src/deployment/logs/
+/src/data-process/data.csv.gz
+/src/deployment/model_store/draw_classifier.mar

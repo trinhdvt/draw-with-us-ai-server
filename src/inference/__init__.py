@@ -9,11 +9,11 @@ from src.inference import inference_pb2, inference_pb2_grpc
 
 MODEL_SERVER = os.getenv("MODEL_SERVER", "http://localhost:8080")
 MODEL_SERVER_GRPC = os.getenv("MODEL_SERVER_GRPC", "localhost:7070")
-MODEL_NAME = os.getenv("MODEL_NAME", "drawclassifier")
+MODEL_NAME = os.getenv("MODEL_NAME", "draw_classifier")
 
 
 def predict(req_data: bytes) -> dict:
-    req = requests.post(f"{MODEL_SERVER}/predictions/drawclassifier", files={"data": req_data})
+    req = requests.post(f"{MODEL_SERVER}/predictions/{MODEL_NAME}", files={"data": req_data})
     if req.status_code == 200:
         return req.json()
     else:

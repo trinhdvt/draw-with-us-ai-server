@@ -1,4 +1,4 @@
-FROM python:3.9.12-slim-bullseye as production
+FROM python:3.9.13-slim-bullseye as production
 MAINTAINER "trinhdvt"
 
 ENV VIRTUAL_ENV=/home/venv
@@ -13,8 +13,8 @@ RUN apt update && apt autoremove -y \
     && pip3 install torch torchvision  --extra-index-url https://download.pytorch.org/whl/cpu --no-cache-dir \
     && pip3 install torchserve captum --no-cache-dir
 
-COPY src/deployment/model_store/drawclassifier.mar model-store/
+COPY src/deployment/model_store/draw_classifier.mar model-store/
 COPY src/deployment/config.properties config.properties
 EXPOSE 8080 8081 8082
 
-CMD ["torchserve", "--start" , "--model-store", "model-store" , "--models" , "drawclassifier.mar", "--ts-config", "config.properties", "--foreground"]
+CMD ["torchserve", "--start", "--ncs" , "--model-store", "model-store" , "--models" , "draw_classifier.mar", "--ts-config", "config.properties", "--foreground"]
