@@ -1,4 +1,4 @@
-FROM python:3.9.13-slim-bullseye as production
+FROM python:3.9-slim-bullseye as production
 MAINTAINER "trinhdvt"
 
 ENV VIRTUAL_ENV=/home/venv
@@ -9,11 +9,12 @@ WORKDIR /app
 
 RUN apt update && apt autoremove -y \
     && apt install openjdk-11-jre-headless -y \
+    && rm -rf /var/lib/apt/lists/* \
     && python3 -m pip install -U setuptools --no-cache-dir \
-    && pip3 install torch torchvision  --extra-index-url https://download.pytorch.org/whl/cpu --no-cache-dir \
+    && pip3 install torch torchvision --extra-index-url https://download.pytorch.org/whl/cpu --no-cache-dir \
     && pip3 install torchserve captum --no-cache-dir
 
-COPY src/deployment/model_store/draw_classifier.mar model-store/
+COPY src/deployment/v2/model_store/draw_classifier.mar model-store/
 COPY src/deployment/config.properties config.properties
 EXPOSE 8080 8081 8082
 

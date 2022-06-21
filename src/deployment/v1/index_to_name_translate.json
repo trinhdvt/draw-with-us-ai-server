@@ -1,0 +1,1362 @@
+{
+  "0": {
+    "en": "traffic light",
+    "vi": "đèn giao thông"
+  },
+  "1": {
+    "en": "rhinoceros",
+    "vi": "con tê giác"
+  },
+  "2": {
+    "en": "bed",
+    "vi": "cái giường"
+  },
+  "3": {
+    "en": "school bus",
+    "vi": "xe buýt trường học"
+  },
+  "4": {
+    "en": "van",
+    "vi": "xe tải"
+  },
+  "5": {
+    "en": "octopus",
+    "vi": "con bạch tuộc"
+  },
+  "6": {
+    "en": "firetruck",
+    "vi": "xe cứu hoả"
+  },
+  "7": {
+    "en": "laptop",
+    "vi": "máy tính xách tay"
+  },
+  "8": {
+    "en": "tractor",
+    "vi": "máy kéo"
+  },
+  "9": {
+    "en": "matches",
+    "vi": "que diêm"
+  },
+  "10": {
+    "en": "windmill",
+    "vi": "cối xay gió"
+  },
+  "11": {
+    "en": "square",
+    "vi": "hình vuông"
+  },
+  "12": {
+    "en": "pineapple",
+    "vi": "quả dứa"
+  },
+  "13": {
+    "en": "candle",
+    "vi": "ngọn nến"
+  },
+  "14": {
+    "en": "mosquito",
+    "vi": "con muỗi"
+  },
+  "15": {
+    "en": "pear",
+    "vi": "quả lê"
+  },
+  "16": {
+    "en": "boomerang",
+    "vi": "boomerang"
+  },
+  "17": {
+    "en": "lollipop",
+    "vi": "cây kẹo mút"
+  },
+  "18": {
+    "en": "yoga",
+    "vi": "người tập Yoga"
+  },
+  "19": {
+    "en": "waterslide",
+    "vi": "cầu trượt nước"
+  },
+  "20": {
+    "en": "swan",
+    "vi": "chim thiên nga"
+  },
+  "21": {
+    "en": "triangle",
+    "vi": "hình tam giác"
+  },
+  "22": {
+    "en": "diving board",
+    "vi": "ván nhảy cho hồ bơi"
+  },
+  "23": {
+    "en": "crayon",
+    "vi": "bút sáp màu"
+  },
+  "24": {
+    "en": "hockey puck",
+    "vi": "bóng khúc côn cầu"
+  },
+  "25": {
+    "en": "moustache",
+    "vi": "râu mép"
+  },
+  "26": {
+    "en": "calendar",
+    "vi": "cuốn lịch"
+  },
+  "27": {
+    "en": "cow",
+    "vi": "con bò"
+  },
+  "28": {
+    "en": "fire hydrant",
+    "vi": "trụ nước cứu hỏa"
+  },
+  "29": {
+    "en": "hot air balloon",
+    "vi": "khinh khí cầu"
+  },
+  "30": {
+    "en": "helmet",
+    "vi": "mũ bảo hộ"
+  },
+  "31": {
+    "en": "parrot",
+    "vi": "con vẹt"
+  },
+  "32": {
+    "en": "hot tub",
+    "vi": "bồn nước nóng"
+  },
+  "33": {
+    "en": "baseball",
+    "vi": "quả bóng chày"
+  },
+  "34": {
+    "en": "saw",
+    "vi": "cái cưa"
+  },
+  "35": {
+    "en": "mouth",
+    "vi": "cái miệng"
+  },
+  "36": {
+    "en": "passport",
+    "vi": "cuốn hộ chiếu"
+  },
+  "37": {
+    "en": "campfire",
+    "vi": "lửa trại"
+  },
+  "38": {
+    "en": "car",
+    "vi": "xe oto con"
+  },
+  "39": {
+    "en": "bulldozer",
+    "vi": "xe ủi"
+  },
+  "40": {
+    "en": "pencil",
+    "vi": "cây bút chì"
+  },
+  "41": {
+    "en": "wine glass",
+    "vi": "ly rượu vang"
+  },
+  "42": {
+    "en": "marker",
+    "vi": "bút đánh dấu"
+  },
+  "43": {
+    "en": "axe",
+    "vi": "cái rìu"
+  },
+  "44": {
+    "en": "mug",
+    "vi": "cốc tròn có quai"
+  },
+  "45": {
+    "en": "see saw",
+    "vi": "cầu bập bênh"
+  },
+  "46": {
+    "en": "foot",
+    "vi": "bàn chân"
+  },
+  "47": {
+    "en": "door",
+    "vi": "cánh cửa"
+  },
+  "48": {
+    "en": "beach",
+    "vi": "bãi biển"
+  },
+  "49": {
+    "en": "cruise ship",
+    "vi": "tàu du lịch"
+  },
+  "50": {
+    "en": "drums",
+    "vi": "cái trống"
+  },
+  "51": {
+    "en": "necklace",
+    "vi": "vòng cổ"
+  },
+  "52": {
+    "en": "spoon",
+    "vi": "cái thìa"
+  },
+  "53": {
+    "en": "motorbike",
+    "vi": "xe máy"
+  },
+  "54": {
+    "en": "megaphone",
+    "vi": "loa phát thanh"
+  },
+  "55": {
+    "en": "penguin",
+    "vi": "con chim cánh cụt"
+  },
+  "56": {
+    "en": "washing machine",
+    "vi": "máy giặt"
+  },
+  "57": {
+    "en": "giraffe",
+    "vi": "con hươu cao cổ"
+  },
+  "58": {
+    "en": "monkey",
+    "vi": "con khỉ"
+  },
+  "59": {
+    "en": "shoe",
+    "vi": "chiếc giày"
+  },
+  "60": {
+    "en": "microphone",
+    "vi": "cái mic-cờ-rô"
+  },
+  "61": {
+    "en": "skyscraper",
+    "vi": "toà nhà chọc trời"
+  },
+  "62": {
+    "en": "blackberry",
+    "vi": "trái mâm xôi đen"
+  },
+  "63": {
+    "en": "sword",
+    "vi": "cây kiếm"
+  },
+  "64": {
+    "en": "nail",
+    "vi": "cái đinh"
+  },
+  "65": {
+    "en": "birthday cake",
+    "vi": "bánh sinh nhật"
+  },
+  "66": {
+    "en": "carrot",
+    "vi": "củ cà rốt"
+  },
+  "67": {
+    "en": "lobster",
+    "vi": "con tôm hùm"
+  },
+  "68": {
+    "en": "hourglass",
+    "vi": "đồng hồ cát"
+  },
+  "69": {
+    "en": "microwave",
+    "vi": "lò vi sống"
+  },
+  "70": {
+    "en": "cannon",
+    "vi": "khẩu đại bác"
+  },
+  "71": {
+    "en": "clarinet",
+    "vi": "kèn Cla-ri-nét"
+  },
+  "72": {
+    "en": "basketball",
+    "vi": "quả bóng rổ"
+  },
+  "73": {
+    "en": "pliers",
+    "vi": "cái kìm"
+  },
+  "74": {
+    "en": "bee",
+    "vi": "con ong"
+  },
+  "75": {
+    "en": "flashlight",
+    "vi": "cây đèn pin"
+  },
+  "76": {
+    "en": "leaf",
+    "vi": "lá cây"
+  },
+  "77": {
+    "en": "belt",
+    "vi": "cái thắt lưng"
+  },
+  "78": {
+    "en": "grass",
+    "vi": "bụi cỏ"
+  },
+  "79": {
+    "en": "river",
+    "vi": "dòng sông"
+  },
+  "80": {
+    "en": "peas",
+    "vi": "đậu Hà Lan"
+  },
+  "81": {
+    "en": "elbow",
+    "vi": "khuỷ tay"
+  },
+  "82": {
+    "en": "tiger",
+    "vi": "con hổ"
+  },
+  "83": {
+    "en": "roller coaster",
+    "vi": "cầu tàu lượn siêu tốc"
+  },
+  "84": {
+    "en": "piano",
+    "vi": "đàn piano"
+  },
+  "85": {
+    "en": "trumpet",
+    "vi": "Kèn trông-pét (Trumpet)"
+  },
+  "86": {
+    "en": "snowflake",
+    "vi": "bông hoa tuyết"
+  },
+  "87": {
+    "en": "bandage",
+    "vi": "băng cá nhân"
+  },
+  "88": {
+    "en": "bowtie",
+    "vi": "cái nơ"
+  },
+  "89": {
+    "en": "harp",
+    "vi": "đàn hạc"
+  },
+  "90": {
+    "en": "onion",
+    "vi": "củ hành tây"
+  },
+  "91": {
+    "en": "stairs",
+    "vi": "cầu thang bộ"
+  },
+  "92": {
+    "en": "bus",
+    "vi": "xe buýt"
+  },
+  "93": {
+    "en": "oven",
+    "vi": "lò nướng"
+  },
+  "94": {
+    "en": "stop sign",
+    "vi": "biển báo dừng"
+  },
+  "95": {
+    "en": "chair",
+    "vi": "cái ghế"
+  },
+  "96": {
+    "en": "guitar",
+    "vi": "đàn Guitar"
+  },
+  "97": {
+    "en": "headphones",
+    "vi": "tai nghe"
+  },
+  "98": {
+    "en": "hockey stick",
+    "vi": "gậy khúc côn cầu"
+  },
+  "99": {
+    "en": "sheep",
+    "vi": "con cừu"
+  },
+  "100": {
+    "en": "leg",
+    "vi": "cái chân"
+  },
+  "101": {
+    "en": "popsicle",
+    "vi": "cây kem que"
+  },
+  "102": {
+    "en": "suitcase",
+    "vi": "cái va-li"
+  },
+  "103": {
+    "en": "snorkel",
+    "vi": "ống thở khi lặn"
+  },
+  "104": {
+    "en": "angel",
+    "vi": "thiên thần"
+  },
+  "105": {
+    "en": "scissors",
+    "vi": "cây kéo"
+  },
+  "106": {
+    "en": "line",
+    "vi": "dòng kẻ"
+  },
+  "107": {
+    "en": "shorts",
+    "vi": "cái quần sọt (quần đùi)"
+  },
+  "108": {
+    "en": "toaster",
+    "vi": "lò nướng bánh mì"
+  },
+  "109": {
+    "en": "lantern",
+    "vi": "đèn lồng cầm tay"
+  },
+  "110": {
+    "en": "rabbit",
+    "vi": "con thỏ"
+  },
+  "111": {
+    "en": "rain",
+    "vi": "cơn mưa"
+  },
+  "112": {
+    "en": "camel",
+    "vi": "con lạc đà"
+  },
+  "113": {
+    "en": "mouse",
+    "vi": "con chuột"
+  },
+  "114": {
+    "en": "snail",
+    "vi": "con ốc (động vật)"
+  },
+  "115": {
+    "en": "cell phone",
+    "vi": "điện thoại di động"
+  },
+  "116": {
+    "en": "couch",
+    "vi": "cái ghế sofa"
+  },
+  "117": {
+    "en": "butterfly",
+    "vi": "con bươm bướm"
+  },
+  "118": {
+    "en": "bear",
+    "vi": "con gấu"
+  },
+  "119": {
+    "en": "light bulb",
+    "vi": "bóng đèn sợi đốt"
+  },
+  "120": {
+    "en": "flower",
+    "vi": "cây hoa"
+  },
+  "121": {
+    "en": "paint can",
+    "vi": "thùng sơn"
+  },
+  "122": {
+    "en": "hedgehog",
+    "vi": "con nhím"
+  },
+  "123": {
+    "en": "teddy-bear",
+    "vi": "gấu bông"
+  },
+  "124": {
+    "en": "stitches",
+    "vi": "mũi khâu"
+  },
+  "125": {
+    "en": "bathtub",
+    "vi": "bồn tắm"
+  },
+  "126": {
+    "en": "blueberry",
+    "vi": "trái việt quất"
+  },
+  "127": {
+    "en": "police car",
+    "vi": "xe cảnh sát"
+  },
+  "128": {
+    "en": "crab",
+    "vi": "con cua"
+  },
+  "129": {
+    "en": "jail",
+    "vi": "nhà tù"
+  },
+  "130": {
+    "en": "ear",
+    "vi": "cái tai"
+  },
+  "131": {
+    "en": "violin",
+    "vi": "đàn Violon"
+  },
+  "132": {
+    "en": "grapes",
+    "vi": "chùm nho"
+  },
+  "133": {
+    "en": "ocean",
+    "vi": "đại dương"
+  },
+  "134": {
+    "en": "telephone",
+    "vi": "điện thoại để bàn"
+  },
+  "135": {
+    "en": "bucket",
+    "vi": "cái xô"
+  },
+  "136": {
+    "en": "anvil",
+    "vi": "cái đe"
+  },
+  "137": {
+    "en": "animal migration",
+    "vi": "động vật di cư"
+  },
+  "138": {
+    "en": "hamburger",
+    "vi": "bánh Hamburger"
+  },
+  "139": {
+    "en": "dog",
+    "vi": "con chó"
+  },
+  "140": {
+    "en": "bush",
+    "vi": "bụi cây"
+  },
+  "141": {
+    "en": "whale",
+    "vi": "cá voi"
+  },
+  "142": {
+    "en": "dresser",
+    "vi": "tủ đựng quần áo"
+  },
+  "143": {
+    "en": "bicycle",
+    "vi": "xe đạp"
+  },
+  "144": {
+    "en": "church",
+    "vi": "nhà thờ"
+  },
+  "145": {
+    "en": "table",
+    "vi": "cái bàn"
+  },
+  "146": {
+    "en": "hand",
+    "vi": "bàn tay"
+  },
+  "147": {
+    "en": "bread",
+    "vi": "ổ bánh mì"
+  },
+  "148": {
+    "en": "toothpaste",
+    "vi": "kem đánh răng"
+  },
+  "149": {
+    "en": "raccoon",
+    "vi": "con gấu mèo"
+  },
+  "150": {
+    "en": "sandwich",
+    "vi": "bánh sandwich"
+  },
+  "151": {
+    "en": "barn",
+    "vi": "nhà khó"
+  },
+  "152": {
+    "en": "eyeglasses",
+    "vi": "mắt kính"
+  },
+  "153": {
+    "en": "cactus",
+    "vi": "cây xương rồng"
+  },
+  "154": {
+    "en": "smiley face",
+    "vi": "khuông mặt cười"
+  },
+  "155": {
+    "en": "screwdriver",
+    "vi": "cái tu vít"
+  },
+  "156": {
+    "en": "sun",
+    "vi": "mặt trời"
+  },
+  "157": {
+    "en": "envelope",
+    "vi": "bì thư"
+  },
+  "158": {
+    "en": "map",
+    "vi": "tấm bản đồ"
+  },
+  "159": {
+    "en": "radio",
+    "vi": "cá Radio"
+  },
+  "160": {
+    "en": "lighthouse",
+    "vi": "ngọn hải đăng"
+  },
+  "161": {
+    "en": "frog",
+    "vi": "con ếch"
+  },
+  "162": {
+    "en": "peanut",
+    "vi": "hạt đậu phộng"
+  },
+  "163": {
+    "en": "sleeping bag",
+    "vi": "túi ngủ"
+  },
+  "164": {
+    "en": "feather",
+    "vi": "lông chim"
+  },
+  "165": {
+    "en": "The Great Wall of China",
+    "vi": "Vạn Lý Trường Thành"
+  },
+  "166": {
+    "en": "pillow",
+    "vi": "cái gối"
+  },
+  "167": {
+    "en": "stethoscope",
+    "vi": "ống nghe (y tế)"
+  },
+  "168": {
+    "en": "baseball bat",
+    "vi": "gậy bóng chày"
+  },
+  "169": {
+    "en": "vase",
+    "vi": "lọ cắm hoa"
+  },
+  "170": {
+    "en": "sailboat",
+    "vi": "Thuyền buồm"
+  },
+  "171": {
+    "en": "pond",
+    "vi": "cái ao"
+  },
+  "172": {
+    "en": "crocodile",
+    "vi": "con cá sấu"
+  },
+  "173": {
+    "en": "cake",
+    "vi": "cái bánh"
+  },
+  "174": {
+    "en": "kangaroo",
+    "vi": "con chuột túi"
+  },
+  "175": {
+    "en": "pool",
+    "vi": "hồ bơi"
+  },
+  "176": {
+    "en": "hurricane",
+    "vi": "cơn bão"
+  },
+  "177": {
+    "en": "hammer",
+    "vi": "cái búa"
+  },
+  "178": {
+    "en": "tennis racquet",
+    "vi": "vợt tennis"
+  },
+  "179": {
+    "en": "calculator",
+    "vi": "máy tính bỏ túi"
+  },
+  "180": {
+    "en": "knee",
+    "vi": "đầu gối"
+  },
+  "181": {
+    "en": "The Eiffel Tower",
+    "vi": "Tháp Eiffel"
+  },
+  "182": {
+    "en": "cloud",
+    "vi": "đám mây"
+  },
+  "183": {
+    "en": "lion",
+    "vi": "con sư tử"
+  },
+  "184": {
+    "en": "strawberry",
+    "vi": "quả dâu tây"
+  },
+  "185": {
+    "en": "fireplace",
+    "vi": "lò sưởi"
+  },
+  "186": {
+    "en": "sink",
+    "vi": "bồn rửa mặt"
+  },
+  "187": {
+    "en": "hexagon",
+    "vi": "hình lục giác"
+  },
+  "188": {
+    "en": "pizza",
+    "vi": "bánh pizza"
+  },
+  "189": {
+    "en": "lipstick",
+    "vi": "cây son môi"
+  },
+  "190": {
+    "en": "flamingo",
+    "vi": "chim Hồng hạc"
+  },
+  "191": {
+    "en": "spider",
+    "vi": "con nhện"
+  },
+  "192": {
+    "en": "star",
+    "vi": "ngôi sao"
+  },
+  "193": {
+    "en": "streetlight",
+    "vi": "đèn đường"
+  },
+  "194": {
+    "en": "frying pan",
+    "vi": "cái chảo chiên"
+  },
+  "195": {
+    "en": "cup",
+    "vi": "cái cốc"
+  },
+  "196": {
+    "en": "television",
+    "vi": "cái tivi"
+  },
+  "197": {
+    "en": "palm tree",
+    "vi": "cây dừa (cọ)"
+  },
+  "198": {
+    "en": "eye",
+    "vi": "con mắt"
+  },
+  "199": {
+    "en": "rake",
+    "vi": "cái cào"
+  },
+  "200": {
+    "en": "pants",
+    "vi": "quần dài"
+  },
+  "201": {
+    "en": "tooth",
+    "vi": "cái răng"
+  },
+  "202": {
+    "en": "string bean",
+    "vi": "Đậu cô ve"
+  },
+  "203": {
+    "en": "bracelet",
+    "vi": "vòng đeo tay"
+  },
+  "204": {
+    "en": "crown",
+    "vi": "vương miện"
+  },
+  "205": {
+    "en": "flip flops",
+    "vi": "dép xỏ ngón"
+  },
+  "206": {
+    "en": "teapot",
+    "vi": "ấm trà"
+  },
+  "207": {
+    "en": "compass",
+    "vi": "la bàn"
+  },
+  "208": {
+    "en": "power outlet",
+    "vi": "ổ cắm điện"
+  },
+  "209": {
+    "en": "beard",
+    "vi": "râu"
+  },
+  "210": {
+    "en": "rainbow",
+    "vi": "cầu vồng"
+  },
+  "211": {
+    "en": "toothbrush",
+    "vi": "Bàn chải đánh răng"
+  },
+  "212": {
+    "en": "canoe",
+    "vi": "chiếc xuồng"
+  },
+  "213": {
+    "en": "alarm clock",
+    "vi": "đồng hồ báo thức"
+  },
+  "214": {
+    "en": "tornado",
+    "vi": "lốc xoáy (vòi rồng)"
+  },
+  "215": {
+    "en": "circle",
+    "vi": "hình tròn"
+  },
+  "216": {
+    "en": "pig",
+    "vi": "con heo"
+  },
+  "217": {
+    "en": "horse",
+    "vi": "con ngựa"
+  },
+  "218": {
+    "en": "computer",
+    "vi": "máy tính để bàn"
+  },
+  "219": {
+    "en": "squiggle",
+    "vi": "đường cong uống éo"
+  },
+  "220": {
+    "en": "fan",
+    "vi": "máy quạt"
+  },
+  "221": {
+    "en": "broccoli",
+    "vi": "cây bông cải xanh"
+  },
+  "222": {
+    "en": "hat",
+    "vi": "cái mũ"
+  },
+  "223": {
+    "en": "wine bottle",
+    "vi": "chai rượu vang"
+  },
+  "224": {
+    "en": "umbrella",
+    "vi": "cái ô (dù)"
+  },
+  "225": {
+    "en": "The Mona Lisa",
+    "vi": "Nàng Mona Lisa"
+  },
+  "226": {
+    "en": "backpack",
+    "vi": "cái balô"
+  },
+  "227": {
+    "en": "chandelier",
+    "vi": "đèn chùm"
+  },
+  "228": {
+    "en": "cooler",
+    "vi": "Hộp giữ lạnh"
+  },
+  "229": {
+    "en": "basket",
+    "vi": "giỏ bóng rổ"
+  },
+  "230": {
+    "en": "paper clip",
+    "vi": "cái kẹp giấy"
+  },
+  "231": {
+    "en": "trombone",
+    "vi": "kèn Trombone"
+  },
+  "232": {
+    "en": "house",
+    "vi": "ngôi nhà"
+  },
+  "233": {
+    "en": "cat",
+    "vi": "con mèo"
+  },
+  "234": {
+    "en": "dolphin",
+    "vi": "cá heo"
+  },
+  "235": {
+    "en": "moon",
+    "vi": "mặt trăng"
+  },
+  "236": {
+    "en": "shark",
+    "vi": "cá mập"
+  },
+  "237": {
+    "en": "swing set",
+    "vi": "xích đu"
+  },
+  "238": {
+    "en": "speedboat",
+    "vi": "xuồng máy (tàu cao tốc)"
+  },
+  "239": {
+    "en": "skull",
+    "vi": "hộp sọ"
+  },
+  "240": {
+    "en": "cello",
+    "vi": "Đàn cello (Trung vĩ cầm)"
+  },
+  "241": {
+    "en": "toe",
+    "vi": "ngón chân"
+  },
+  "242": {
+    "en": "underwear",
+    "vi": "quần lót"
+  },
+  "243": {
+    "en": "golf club",
+    "vi": "gậy chơi golf"
+  },
+  "244": {
+    "en": "paintbrush",
+    "vi": "Cọ sơn"
+  },
+  "245": {
+    "en": "tree",
+    "vi": "cái cây"
+  },
+  "246": {
+    "en": "panda",
+    "vi": "con gấu trúc"
+  },
+  "247": {
+    "en": "camouflage",
+    "vi": "hình vẽ ngụy trang"
+  },
+  "248": {
+    "en": "pickup truck",
+    "vi": "xe bán tải"
+  },
+  "249": {
+    "en": "ladder",
+    "vi": "cái thang"
+  },
+  "250": {
+    "en": "arm",
+    "vi": "cánh tay"
+  },
+  "251": {
+    "en": "clock",
+    "vi": "cái đồng hồ"
+  },
+  "252": {
+    "en": "fence",
+    "vi": "cái hàng rào"
+  },
+  "253": {
+    "en": "sea turtle",
+    "vi": "con rùa biển"
+  },
+  "254": {
+    "en": "jacket",
+    "vi": "Áo khoác"
+  },
+  "255": {
+    "en": "diamond",
+    "vi": "viên kim cương"
+  },
+  "256": {
+    "en": "octagon",
+    "vi": "hình bát giác"
+  },
+  "257": {
+    "en": "remote control",
+    "vi": "cái điều khiển từ xa"
+  },
+  "258": {
+    "en": "stove",
+    "vi": "Bếp lò"
+  },
+  "259": {
+    "en": "train",
+    "vi": "xe lửa (tàu hoả)"
+  },
+  "260": {
+    "en": "tent",
+    "vi": "Cái lều"
+  },
+  "261": {
+    "en": "parachute",
+    "vi": "cây dù để nhảy từ phi cơ"
+  },
+  "262": {
+    "en": "ice cream",
+    "vi": "cây kem ốc quế"
+  },
+  "263": {
+    "en": "truck",
+    "vi": "xe tải"
+  },
+  "264": {
+    "en": "castle",
+    "vi": "lâu đài"
+  },
+  "265": {
+    "en": "finger",
+    "vi": "ngón tay"
+  },
+  "266": {
+    "en": "potato",
+    "vi": "củ khoai tây"
+  },
+  "267": {
+    "en": "binoculars",
+    "vi": "ống nhòm"
+  },
+  "268": {
+    "en": "helicopter",
+    "vi": "trực thăng"
+  },
+  "269": {
+    "en": "snowman",
+    "vi": "người tuyết"
+  },
+  "270": {
+    "en": "ant",
+    "vi": "con kiến"
+  },
+  "271": {
+    "en": "toilet",
+    "vi": "nhà vệ sinh"
+  },
+  "272": {
+    "en": "flying saucer",
+    "vi": "đĩa bay"
+  },
+  "273": {
+    "en": "steak",
+    "vi": "bò bít tết"
+  },
+  "274": {
+    "en": "owl",
+    "vi": "con cú"
+  },
+  "275": {
+    "en": "t-shirt",
+    "vi": "Áo thun (áo phông)"
+  },
+  "276": {
+    "en": "house plant",
+    "vi": "chậu cây trong nhà"
+  },
+  "277": {
+    "en": "soccer ball",
+    "vi": "Quả bóng đá"
+  },
+  "278": {
+    "en": "apple",
+    "vi": "quả táo"
+  },
+  "279": {
+    "en": "book",
+    "vi": "cuốn sách"
+  },
+  "280": {
+    "en": "face",
+    "vi": " khuôn mặt (bất kỳ)"
+  },
+  "281": {
+    "en": "sock",
+    "vi": "chiếc vớ (tất)"
+  },
+  "282": {
+    "en": "drill",
+    "vi": "Máy khoan cầm tay"
+  },
+  "283": {
+    "en": "donut",
+    "vi": "Bánh vòng"
+  },
+  "284": {
+    "en": "saxophone",
+    "vi": "kèn Saxophone"
+  },
+  "285": {
+    "en": "dishwasher",
+    "vi": "máy rửa chén"
+  },
+  "286": {
+    "en": "camera",
+    "vi": "máy quay phim"
+  },
+  "287": {
+    "en": "hospital",
+    "vi": "bệnh viện"
+  },
+  "288": {
+    "en": "broom",
+    "vi": "cây chổi quét nhà"
+  },
+  "289": {
+    "en": "lightning",
+    "vi": "tia chớp"
+  },
+  "290": {
+    "en": "watermelon",
+    "vi": "quả dưa hấu"
+  },
+  "291": {
+    "en": "spreadsheet",
+    "vi": "bảng tính"
+  },
+  "292": {
+    "en": "bridge",
+    "vi": "cây cầu"
+  },
+  "293": {
+    "en": "coffee cup",
+    "vi": "ly cà phê"
+  },
+  "294": {
+    "en": "ambulance",
+    "vi": "xe cứu thương"
+  },
+  "295": {
+    "en": "key",
+    "vi": "chìa khoá"
+  },
+  "296": {
+    "en": "picture frame",
+    "vi": "khung tranh"
+  },
+  "297": {
+    "en": "nose",
+    "vi": "cái mũi"
+  },
+  "298": {
+    "en": "purse",
+    "vi": "túi xách phụ nữ"
+  },
+  "299": {
+    "en": "stereo",
+    "vi": "dàn loa ngoài"
+  },
+  "300": {
+    "en": "keyboard",
+    "vi": "bàn phím"
+  },
+  "301": {
+    "en": "elephant",
+    "vi": "con voi"
+  },
+  "302": {
+    "en": "zigzag",
+    "vi": "hình Zigzag"
+  },
+  "303": {
+    "en": "bird",
+    "vi": "con chim"
+  },
+  "304": {
+    "en": "sweater",
+    "vi": "áo len"
+  },
+  "305": {
+    "en": "mailbox",
+    "vi": "hòm thư"
+  },
+  "306": {
+    "en": "banana",
+    "vi": "quả chuối"
+  },
+  "307": {
+    "en": "bench",
+    "vi": "ghế dài (Băng ghế)"
+  },
+  "308": {
+    "en": "snake",
+    "vi": "con rắn"
+  },
+  "309": {
+    "en": "scorpion",
+    "vi": "con bọ cạp"
+  },
+  "310": {
+    "en": "submarine",
+    "vi": "tàu ngầm"
+  },
+  "311": {
+    "en": "ceiling fan",
+    "vi": "quạt trần"
+  },
+  "312": {
+    "en": "duck",
+    "vi": "con vịt"
+  },
+  "313": {
+    "en": "skateboard",
+    "vi": "ván trượt"
+  },
+  "314": {
+    "en": "eraser",
+    "vi": "cục tẩy"
+  },
+  "315": {
+    "en": "fork",
+    "vi": "cái nĩa"
+  },
+  "316": {
+    "en": "hot dog",
+    "vi": "cây xúc xích"
+  },
+  "317": {
+    "en": "squirrel",
+    "vi": "con sóc"
+  },
+  "318": {
+    "en": "rollerskates",
+    "vi": "Giày trượt patin"
+  },
+  "319": {
+    "en": "zebra",
+    "vi": "con ngựa vằn"
+  },
+  "320": {
+    "en": "mountain",
+    "vi": "ngọn núi"
+  },
+  "321": {
+    "en": "wristwatch",
+    "vi": "đồng hồ đeo tay"
+  },
+  "322": {
+    "en": "dumbbell",
+    "vi": "quả tạ đôi"
+  },
+  "323": {
+    "en": "mermaid",
+    "vi": "Nàng tiên cá"
+  },
+  "324": {
+    "en": "cookie",
+    "vi": "cái bánh quy"
+  },
+  "325": {
+    "en": "garden",
+    "vi": "sân vườn"
+  },
+  "326": {
+    "en": "asparagus",
+    "vi": "măng tây"
+  },
+  "327": {
+    "en": "bottlecap",
+    "vi": "cái nắp chai"
+  },
+  "328": {
+    "en": "airplane",
+    "vi": "chiếc máy bay"
+  },
+  "329": {
+    "en": "mushroom",
+    "vi": "cây nấm"
+  },
+  "330": {
+    "en": "bat",
+    "vi": "con dơi"
+  },
+  "331": {
+    "en": "wheel",
+    "vi": "bánh xe"
+  },
+  "332": {
+    "en": "dragon",
+    "vi": "con rồng"
+  },
+  "333": {
+    "en": "goatee",
+    "vi": "chòm râu dê"
+  },
+  "334": {
+    "en": "floor lamp",
+    "vi": "Đèn đứng (ở sàn)"
+  },
+  "335": {
+    "en": "garden hose",
+    "vi": "Ống nước tưới vườn"
+  },
+  "336": {
+    "en": "postcard",
+    "vi": "tấm bưu thiếp"
+  },
+  "337": {
+    "en": "shovel",
+    "vi": "cái xẻng"
+  },
+  "338": {
+    "en": "brain",
+    "vi": "bộ não"
+  },
+  "339": {
+    "en": "fish",
+    "vi": "con cá"
+  }
+}

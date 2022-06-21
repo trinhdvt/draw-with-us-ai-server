@@ -1,12 +1,8 @@
-version: "3"
+version: "3.9"
 
 services:
 
-  # pytorch serving
   Model_Server:
-    build:
-      context: .
-      dockerfile: ModelServe.Dockerfile
     image: trinhvideo123/draw-with-us:ai-server
     ports:
       - "127.0.0.1:8080:8080"
@@ -17,9 +13,6 @@ services:
           - MODEL_SERVER
 
   Model_Server_Proxy:
-    build:
-      context: .
-      dockerfile: Server.Dockerfile
     image: trinhvideo123/draw-with-us:ai-proxy
     ports:
       - "8888:8888"
@@ -28,6 +21,8 @@ services:
       AI_SERVER_BACKEND:
         aliases:
           - MODEL_SERVER_PROXY
+    depends_on:
+      - Model_Server
 
 networks:
   AI_SERVER_BACKEND:

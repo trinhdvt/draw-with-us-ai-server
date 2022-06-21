@@ -9,9 +9,8 @@ test
 .gitignore
 .git
 .idea
-src/deployment/logs
 src/data-process
-src/deployment/model_store/drawclassifier.mar
-src/deployment/mobile_net_scripted.pt
 src/training
 src/utils
+src/visualize-training-logs
+src/deployment/*/*.pt
