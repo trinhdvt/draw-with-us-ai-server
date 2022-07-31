@@ -136,8 +136,6 @@ cython_debug/
 /.run/
 /src/deployment/logs/
 /src/data-process/data.csv.gz
-/src/deployment/v1/model_store/draw_classifier.mar
 /src/deployment/v2/best_model.pt
-/src/deployment/v2/model_store/draw_classifier.mar
 /src/visualize-training-logs/
 .gitignore
